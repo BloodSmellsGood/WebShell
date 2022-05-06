@@ -1,11 +1,11 @@
 # Simple-WebShell
-This is a better webshell with php
-You can run system commands and upload files to the server
+This is a better webshell with php<br>
+You can run system commands and upload files to the server<br>
 hope you like it <3
 
 
 # Test
-How to test it?
+How to test it?<br>
 Go to the shell folder and run php localhost:
 ```
 cd Simple-WebShell
@@ -23,9 +23,9 @@ https://github.com/FireKing255/Simple-WebShell
 it can show u server infromation too
 
 # Developer
-coded by FireKing255
-instagram: https://instagram.com/fireking255.hack
-github: https://github.com/fireking255
+coded by FireKing255<br>
+instagram: https://instagram.com/fireking255.hack<br>
+github: https://github.com/fireking255<br>
 website: https://fireking255.github.io/
 
 # Demo
