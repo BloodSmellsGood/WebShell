@@ -9,7 +9,7 @@ hope you like it  :)
 
 ## Demo
 
-https://raw.githubusercontent.com/msfpt/Better-WebShell/main/demo.mp4
+https://user-images.githubusercontent.com/98208009/174473834-b05a4eaf-63ec-4557-b52e-ea901710ff5d.mp4
 
 <br>
 
