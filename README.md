@@ -31,4 +31,4 @@ it can show u server infromation too
 
 ## Developers
 
-[@FireKing255](https://github.com/FireKing255) and [@msfpt](https://github.com/msfpt)
+[@PrincessOfMeowTown](https://github.com/PrincessOfMeowTown) and [@msfpt](https://github.com/msfpt)
